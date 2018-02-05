@@ -1,5 +1,5 @@
 # WaBiTokenBot
-I was tired of Reddit crypto FUD (fear, uncertainity, and doubt) about WaBi. So I created a bot to upvote submissions, and to reply to comments with information about the company (Walimai). If a user on reddit writes !WaBi in a comment, the bot will reply with the followinn information:
+I was tired of Reddit crypto FUD (fear, uncertainity, and doubt) about WaBi. So I created a bot to upvote submissions, and to reply to comments with information about the company (Walimai). If a user on reddit writes !WaBi in a comment, the bot will reply with the following information:
 
 >> ##### About WaBi Token
 >>
