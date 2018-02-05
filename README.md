@@ -18,11 +18,11 @@ I was tired of Reddit crypto FUD (fear, uncertainity, and doubt) about WaBi. So 
 
 
 
-### Requirements
+## Requirements
 The bot uses the Praw python library to access and parse reddit. 
 
 
-### Set Up 
+## Set Up 
 1. Download requirements 
 2. Create reddit account
 3. Create reddit developer app
@@ -30,5 +30,5 @@ The bot uses the Praw python library to access and parse reddit.
 5. Run! 
 
 
-### Next Steps
+## Next Steps
 Host the script on a Raspberry Pi to run continously
