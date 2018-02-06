@@ -5,9 +5,9 @@ I was tired of Reddit crypto FUD (fear, uncertainity, and doubt) about WaBi. So 
 >>
 >>Walimai, the company behind WaBi, is a company that develops solutions to ensure product authenticity. It places secure anti-counterfeit labels on consumer products in China and internationally.
 >>
->>Walimai’s operations are mainly in China, which suffers from counterfeit in products such as baby formula, cosmetics, and >>alcohol. In order to solve this problem and provide confidence for consumers, the company has developed RFID labels with >>anti-reuse design, as well as mobile Apps that integrate with the labels.
+>>Walimai’s operations are mainly in China, which suffers from counterfeit in products such as baby formula, cosmetics, and alcohol. In order to solve this problem and provide confidence for consumers, the company has developed RFID labels with anti-reuse design, as well as mobile Apps that integrate with the labels.
 >>
->>Walimai label is applied to the product at the point of origin and is scanned throughout the supply chain. After consumers >>purchase the products, they can scan the items with Walimai app, which would then show whether the product is original and >>the product’s previous locations and timestamp along the supply chain.
+>>Walimai label is applied to the product at the point of origin and is scanned throughout the supply chain. After consumers purchase the products, they can scan the items with Walimai app, which would then show whether the product is original and the product’s previous locations and timestamp along the supply chain.
 >>
 >> * Company Website: https://www.walimai.com/
 >> * Token Website: https://www.wacoin.io/
